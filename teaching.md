@@ -1,4 +1,4 @@
 ---
-layout: teaching
+layout: courses
 title: "Teaching"
 ---
