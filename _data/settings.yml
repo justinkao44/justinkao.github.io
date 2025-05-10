@@ -16,9 +16,7 @@ courses:
 - {name: 'Stellar Structures', url: 'stellar-structures'}
 
 social:
-- {icon: 'github', link: 'https://github.com/LeNPaul'}
-- {icon: 'twitter', link: 'https://twitter.com/paululele'}
-- {icon: 'instagram', link: 'https://instagram.com/paululele'}
+- {icon: 'github', link: 'https://github.com/justinkao44'}
 - {icon: 'linkedin', link: 'https://linkedin.com/in/lenpaul'}
 
 contacts:
