@@ -14,7 +14,7 @@ You can verify my credentials in the <a href="https://www.actuarialdirectory.org
     {{ content }}
   </div>
   <div class="col-md-6">
-    <img src="{{ site.github.url }}/assets/img/home.jpg" alt="Home" width="70%">
+    <img src="{{ site.github.url }}/assets/img/ASA_Diplomas April 2024 English PROOF.pdf" alt="Home" width="70%">
   </div>
 </div>
 
