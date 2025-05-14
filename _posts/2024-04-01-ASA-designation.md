@@ -8,6 +8,6 @@ In 2024, I earned my Associate of the Society of Actuaries (ASA) designation. Ov
 You can verify my credentials in the <a href="https://www.actuarialdirectory.org/?searchType=11&discloseId=Z2eKi4b1E9ihwNUNr1n3FA%3D%3D" target="_blank">Actuarial Directory</a>.
 
 
-<img src="{{ site.github.url }}/assets/img/asa_diploma.jpeg" alt="ASA Diploma" width="70%">
+<img src="{{ site.github.url }}/assets/img/asa_diploma.jpg" alt="ASA Diploma" width="70%">
 
 
